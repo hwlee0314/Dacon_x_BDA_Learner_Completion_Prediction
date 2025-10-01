@@ -1,3 +1,5 @@
+<img width="1054" height="816" alt="Image" src="https://github.com/user-attachments/assets/e9b0c459-8d65-458d-b8fa-ac721a18390d" />
+
 # 데이콘 x BDA 학습자 수료 예측 AI 경진대회 
 
 ### **2025-07-07 ~ 2025.08.25**

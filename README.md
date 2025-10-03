@@ -3,7 +3,7 @@
 # 데이콘 x BDA 학습자 수료 예측 AI 경진대회 
 
 ### **2025-07-07 ~ 2025.08.25**
-### [Competition Link](https://dacon.io/competitions/official/236519/overview/description)
+### [Competition & Data Link](https://dacon.io/competitions/official/236519/overview/description)
 - 온라인 중심의 교육 특성상 중도 이탈이 발생할 수밖에 없음
 - BDA 8기의 학습 데이터를 분석하여 9기 학습자의 수료 여부를 예측하는 AI 알고리즘을 개발하는 것이 목표
 - 학습자의 설문 정보를 바탕으로 교육 과정을 수료할 학습자를 식별하는 모델을 설계
@@ -37,10 +37,6 @@
 
 ```
 Dacon_x_BDA_Learner_Completion_Prediction/
-├── data/               
-│   ├── train.csv
-│   ├── test.csv
-│   └── sample_submission.csv
 ├── TF-IDF+RandomForest+Optuna.ipynb          
 ├── submission_tfidf_rf_fixed.csv
 ├── README.md           
